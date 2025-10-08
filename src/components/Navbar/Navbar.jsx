@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 
 const Navbar = () => {
     const menu = [
@@ -31,7 +31,16 @@ const Navbar = () => {
                         }
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">daisyUI</a>
+                <div className="">
+                    <Link to="/" className="btn btn-ghost text-xl flex justify-center items-center">
+                        <img
+                            className='h-8 w-8'
+                            src="../../../src/assets/logo.png"
+                            alt="logo-hero-io"
+                        />
+                        <span className=''>Hero.io</span>
+                    </Link>
+                </div>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -49,7 +58,9 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Button</a>
+                <button className="btn bg-linear-[125deg,#632EE3,#9F62F2] text-white">
+                    <Link to="https://github.com/al-amin-khan" target='_blank'>Contribute</Link>
+                </button>
             </div>
         </div>
     );
