@@ -38,9 +38,6 @@ const HeroFooter = () => {
                             <div className="w-12 h-12  rounded-xl flex items-center justify-center">
                                 <img src={logo} alt="logo-hero-io" />
                             </div>
-                            {/* <span className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-                                Hero.io
-                            </span> */}
                             <span className="text-3xl font-bold bg-gradient bg-clip-text text-transparent">
                                 Hero.io
                             </span>

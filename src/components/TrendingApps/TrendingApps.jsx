@@ -6,9 +6,6 @@ import { Link } from 'react-router';
 const TrendingApps = () => {
     const { data, loading, error } = useAppsListJSON();
     const sliceAppList = data.slice(0,8);
-    console.log(sliceAppList.length);
-    
-    console.log(data);
 
     return (
         <div className=' mx-auto bg-base-200 pb-10'>
