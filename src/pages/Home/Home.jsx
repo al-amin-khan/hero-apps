@@ -1,5 +1,6 @@
 import Banner from "../../components/Banner/Banner";
 import StatsSection from "../../components/StatsSection/StatsSection";
+import TrendingApps from "../../components/TrendingApps/TrendingApps";
 
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <Banner/>
             <StatsSection/>
+            <TrendingApps/>
         </div >
     );
 };
