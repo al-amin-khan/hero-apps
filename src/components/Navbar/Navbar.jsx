@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router';
+import logo from '../../../src/assets/logo.png';
 
 const Navbar = () => {
     const menu = [
@@ -35,7 +36,7 @@ const Navbar = () => {
                     <Link to="/" className="btn btn-ghost text-xl flex justify-center items-center">
                         <img
                             className='h-8 w-8'
-                            src="../../../src/assets/logo.png"
+                            src={logo}
                             alt="logo-hero-io"
                         />
                         <span className=''>Hero.io</span>
