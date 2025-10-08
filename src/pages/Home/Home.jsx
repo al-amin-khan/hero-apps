@@ -1,10 +1,13 @@
-import React from 'react';
+import Banner from "../../components/Banner/Banner";
+import StatsSection from "../../components/StatsSection/StatsSection";
+
 
 const Home = () => {
     return (
         <div>
-            <h1>This is home</h1>
-        </div>
+            <Banner/>
+            <StatsSection/>
+        </div >
     );
 };
 

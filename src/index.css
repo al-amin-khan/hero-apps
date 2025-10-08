@@ -6,3 +6,7 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
+
+.bg-gradient {
+  @apply bg-linear-[125deg,#632EE3,#9F62F2]
+}

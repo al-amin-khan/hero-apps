@@ -1,0 +1,992 @@
+[
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+        "title": "WhatsApp Messenger",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 1,
+        "description": "WhatsApp is a secure, fast, and widely adopted messaging app that helps billions of people stay connected across borders. With end-to-end encryption by default, private conversations, calls, and group chats stay protected so only you and the people you choose can read or listen. The interface is intentionally simple: start a chat, drop a voice note, share a photo, or launch a video call without digging through menus.\n\nBeyond simple messaging, WhatsApp empowers communities and businesses. Groups support large conversations for families, clubs, and classrooms, while Communities organize multiple related groups under one roof with announcement tools for admins. For small businesses, the WhatsApp Business experience offers catalogs, quick replies, and labels so owners can showcase products, respond faster, and track conversations more professionally.\n\nReliability is a hallmark: messages sync seamlessly even on slow networks, voice notes cache offline until they can send, and calls adapt bitrate to keep conversations going. Media compression balances speed with quality, and chat search helps you jump to the right memory by keyword, contact, or date. On desktop, the new multi-device architecture means your phone doesn’t have to stay online to keep chatting from your computer.\n\nPrivacy controls continue to expand. Choose who sees your last seen, profile photo, and status; silence unknown callers; and lock specific chats behind a passcode or biometric. With constant updates—from screen sharing on calls to message editing and disappearing options—WhatsApp remains a dependable, privacy-forward home for everyday communication.",
+        "size": 42,
+        "reviews": 137000000,
+        "ratingAvg": 4.3,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6900000
+            },
+            {
+                "name": "2 star",
+                "count": 9600000
+            },
+            {
+                "name": "3 star",
+                "count": 17200000
+            },
+            {
+                "name": "4 star",
+                "count": 41000000
+            },
+            {
+                "name": "5 star",
+                "count": 63200000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 2,
+        "description": "YouTube is the world’s largest stage for video—where tutorials, entertainment, news, and music collide in a personalized feed. Whether you’re learning a new skill, following your favorite creators, or watching the latest live stream, the app tailors recommendations to your interests while giving you complete control over your subscriptions and history.\n\nThe viewing experience is polished across devices: switch between portrait and landscape, scrub precisely with frame previews, or use gestures for volume and brightness. Shorts deliver quick vertical videos for bite-sized moments, while long-form content shines with 4K, HDR, and multi-track audio where supported. Playlists, chapters, and watch-later keep your queue organized, and smart downloads make sure the next episode is ready even offline.\n\nCreators thrive with powerful tools. Edit right on mobile, add music and captions, and manage comments and analytics from the Studio view. Memberships, Super Thanks, and live shopping help channels build sustainable businesses, while Community posts keep audiences engaged between uploads. For music, YouTube integrates seamlessly with official videos, live sessions, and remixes, bridging casual and dedicated listening.\n\nYouTube Premium upgrades the experience with ad-free viewing, background play, and the YouTube Music library. Families can share benefits across accounts, and parents can manage safe exploration with YouTube Kids and supervised experiences. From how-to fixes to global cultural moments, YouTube remains the definitive place to watch and be seen.",
+        "size": 85,
+        "reviews": 150000000,
+        "ratingAvg": 4.2,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12000000
+            },
+            {
+                "name": "2 star",
+                "count": 15000000
+            },
+            {
+                "name": "3 star",
+                "count": 30000000
+            },
+            {
+                "name": "4 star",
+                "count": 42000000
+            },
+            {
+                "name": "5 star",
+                "count": 51000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_(2019).svg",
+        "title": "Facebook",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 3,
+        "description": "Facebook helps you stay close to the people and communities that matter—friends from school, family across the world, local groups, and interest communities at any scale. Your Feed brings updates into one place, from photos and milestones to events and live streams, while the profile gives you a home for memories, stories, and your digital identity.\n\nGroups are the heartbeat of the platform, whether it’s a neighborhood forum, a hobbyist club, or a professional network. Powerful moderation tools support healthy discussion, while Events and Marketplace make it easy to organize meetups, buy and sell locally, and discover what’s happening nearby. Reels deliver quick entertainment, and Watch hosts longer shows and creator series.\n\nPrivacy and control are central. You choose who sees each post, review your activity, and adjust ad preferences. The app provides layered controls for tagging, face recognition, and data sharing, plus transparent privacy checkups that help you set things the way you want. Security features like login alerts and two-factor authentication protect your account.\n\nFor creators and businesses, Pages offer insights, messaging, and advertising tools that can reach people by location, interest, and intent. Whether you’re reconnecting, organizing a fundraiser, or growing a brand, Facebook’s breadth makes it a versatile social hub that adapts to your goals.",
+        "size": 55,
+        "reviews": 129000000,
+        "ratingAvg": 4.1,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12000000
+            },
+            {
+                "name": "2 star",
+                "count": 14000000
+            },
+            {
+                "name": "3 star",
+                "count": 29000000
+            },
+            {
+                "name": "4 star",
+                "count": 36000000
+            },
+            {
+                "name": "5 star",
+                "count": 38000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+        "title": "Instagram",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 4,
+        "description": "Instagram is where visual culture moves—photos, Reels, and Stories that capture moments as they happen. The camera opens instantly with creative tools like filters, layouts, and music, turning ordinary shots into shareable art. Feed and Explore help you discover trends, creators, and communities across fashion, travel, sports, and everyday life.\n\nStories make casual sharing effortless: post a clip, add stickers or polls, and see who viewed it. Reels power short-form discovery with editing tools, audio remixing, and effects so anyone can jump into a trend. Carousels and long captions provide space for context, tutorials, or storytelling when your post needs more depth.\n\nMessaging is tightly woven in: reply to Stories, share posts privately, and build group chats that revolve around your interests. Close Friends and private accounts give control over who sees what, while Safety tools—from comment filters to message requests—help keep interactions healthy. For creators, analytics, branded content tools, and subscriptions turn attention into a livelihood.\n\nShopping connects inspiration to action with product tags, storefronts, and checkout in supported regions. Whether you use Instagram to follow friends, learn a craft, or build a brand, it stays focused on expression, discovery, and connection through images and video.",
+        "size": 60,
+        "reviews": 145000000,
+        "ratingAvg": 4.4,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 9000000
+            },
+            {
+                "name": "2 star",
+                "count": 12000000
+            },
+            {
+                "name": "3 star",
+                "count": 25000000
+            },
+            {
+                "name": "4 star",
+                "count": 43000000
+            },
+            {
+                "name": "5 star",
+                "count": 56000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+        "title": "TikTok",
+        "companyName": "ByteDance Ltd.",
+        "id": 5,
+        "description": "TikTok is a cultural engine built on short, creative video. The For You feed adapts quickly, surfacing content from around the world and from your neighborhood—dance challenges, cooking hacks, comedy skits, and micro-documentaries. Anyone can create with intuitive editing tools, effects, and a vast library of sounds.\n\nMusic is at the core: audio clips spawn remixes and replies, turning a single idea into thousands of iterations. Duets and stitches let you build on another creator’s video, collaborating in real time across continents. Live streaming brings interactive moments, from Q&A sessions to concerts and educational workshops.\n\nSafety features evolve continually: screen time management, comment filters, keyword limits, and family pairing give you control. The app invests in transparency around recommendations and offers options to reset or diversify your feed. Reporting tools and community guidelines aim to keep creativity vibrant and respectful.\n\nFor creators and brands, TikTok offers robust analytics, creator marketplace collaborations, and in-app commerce features in supported regions. From niche communities to global trends, the platform amplifies voices and ideas at the speed of the internet.",
+        "size": 75,
+        "reviews": 140000000,
+        "ratingAvg": 4.4,
+        "downloads": 3000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8000000
+            },
+            {
+                "name": "2 star",
+                "count": 10000000
+            },
+            {
+                "name": "3 star",
+                "count": 24000000
+            },
+            {
+                "name": "4 star",
+                "count": 42000000
+            },
+            {
+                "name": "5 star",
+                "count": 56000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png",
+        "title": "Gmail",
+        "companyName": "Google LLC",
+        "id": 6,
+        "description": "Gmail is an email service designed for speed, organization, and safety. The inbox separates primary messages from social and promotions to reduce noise, and powerful search finds any message with a few keywords. Labels and filters keep mail organized automatically, while snooze and reminders help you return to conversations when the timing is right.\n\nSecurity is built in. Best-in-class spam, phishing, and malware detection protect your account, while two-factor authentication and suspicious login alerts add layers of defense. Confidential mode lets you set expirations and revoke access to sensitive messages, and attachments are scanned to keep you safer by default.\n\nGmail ties into the broader Google Workspace. Start a Meet call from a thread, open a Doc directly from an email, or assign an action item in one click. On mobile, swipe gestures archive or schedule quickly, and offline mode lets you draft and read without a connection so you’re productive on flights or in low-signal areas.\n\nWhether you’re managing a personal account or multiple business inboxes, Gmail scales elegantly: aliases, multiple signatures, and delegated access support professionals, while themes and density controls make the app feel personal and comfortable for everyday use.",
+        "size": 32,
+        "reviews": 120000000,
+        "ratingAvg": 4.3,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7000000
+            },
+            {
+                "name": "2 star",
+                "count": 9000000
+            },
+            {
+                "name": "3 star",
+                "count": 22000000
+            },
+            {
+                "name": "4 star",
+                "count": 38000000
+            },
+            {
+                "name": "5 star",
+                "count": 44000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Google_Maps_Logo_2020.svg",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "id": 7,
+        "description": "Google Maps is your companion for navigation and exploration. Get turn-by-turn directions for driving, walking, cycling, and transit with live traffic and rerouting to avoid delays. Lane guidance, speed limit indicators, and eco-friendly routing help you arrive safely and efficiently.\n\nBeyond navigation, Maps is a directory of the world’s places—restaurants, parks, hospitals, and more—with photos, menus, busy times, and reviews. Save favorites into lists, follow local guides, and discover trending spots in your city or while you travel. Street View puts you on the ground to preview neighborhoods and entrances before you go.\n\nOffline maps ensure reliability when coverage is spotty; download entire regions so search and routing keep working. For commutes, real-time transit arrivals and service alerts reduce uncertainty, while bike and scooter integrations reveal last-mile options. Shared location lets friends and family coordinate in busy areas or during events.\n\nBusinesses manage profiles, bookings, and messaging through Maps, turning discovery into action. From finding a quiet café to navigating mountain roads, Google Maps is an essential tool for getting around and getting things done.",
+        "size": 95,
+        "reviews": 160000000,
+        "ratingAvg": 4.4,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 9000000
+            },
+            {
+                "name": "2 star",
+                "count": 11000000
+            },
+            {
+                "name": "3 star",
+                "count": 23000000
+            },
+            {
+                "name": "4 star",
+                "count": 42000000
+            },
+            {
+                "name": "5 star",
+                "count": 75000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+        "title": "Spotify",
+        "companyName": "Spotify AB",
+        "id": 8,
+        "description": "Spotify is a streaming home for music, podcasts, and audiobooks, blending personalization with massive catalogs. Daily Mixes, Discover Weekly, and Release Radar feel like bespoke radio stations, evolving as your tastes change. The interface emphasizes simplicity—search anything, tap play, and let continuous recommendations keep the vibe.\n\nPlaylists are social currency. Follow friends, collaborate on mixes, and share moments to stories with richly designed cards. For focused listening, crossfade, gapless playback, and audio normalization maintain a consistent experience; for premium devices, high-quality settings and device connect optimize your setup at home or in the car.\n\nPodcasts integrate natively: follow shows, queue episodes, and switch seamlessly between spoken word and music without juggling apps. Creators and artists gain insights into streams, fan locations, and performance, and can promote new releases with Canvas visuals and pre-save links. Personalized hubs—from workout to chill—turn indecision into instant playlists.\n\nWith Spotify Premium, listen ad-free, download for offline, and hop across devices without missing a beat. Whether discovering niche genres or reliving classics, Spotify meets listeners wherever they are, with the right track for the moment.",
+        "size": 35,
+        "reviews": 120000000,
+        "ratingAvg": 4.4,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7000000
+            },
+            {
+                "name": "2 star",
+                "count": 9000000
+            },
+            {
+                "name": "3 star",
+                "count": 20000000
+            },
+            {
+                "name": "4 star",
+                "count": 36000000
+            },
+            {
+                "name": "5 star",
+                "count": 48000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+        "title": "Netflix",
+        "companyName": "Netflix, Inc.",
+        "id": 9,
+        "description": "Netflix brings global storytelling to your screen—movies, series, documentaries, and kids programming—tailored to your preferences. Profiles let each person in a household get personalized rows, while smart downloads and ‘Play Something’ minimize decision fatigue. Playback is smooth, with 4K, HDR, and Dolby Atmos available on supported devices.\n\nDiscovery is central: trailers auto-preview silently, top-10 lists reveal what’s trending, and genre rows surface niche interests from true crime to K-dramas. Continue Watching syncs across devices, and mobile controls make it easy to fine-tune audio, subtitles, and speed for your context.\n\nParents get robust controls: dedicated kids profiles, maturity filters, and PIN locks maintain boundaries. The app’s design highlights safety and simplicity for younger viewers, with curated rows and character hubs. Accessibility keeps improving through audio descriptions and customizable subtitle styles.\n\nOn the road, downloads keep you entertained offline; on the couch, TV apps take over seamlessly via casting and device handoff. Netflix invests deeply in original content and localized stories, making it a reliable destination when you want something new or familiar.",
+        "size": 30,
+        "reviews": 120000000,
+        "ratingAvg": 4.3,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8000000
+            },
+            {
+                "name": "2 star",
+                "count": 9000000
+            },
+            {
+                "name": "3 star",
+                "count": 22000000
+            },
+            {
+                "name": "4 star",
+                "count": 37000000
+            },
+            {
+                "name": "5 star",
+                "count": 44000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Snapchat_logo.svg",
+        "title": "Snapchat",
+        "companyName": "Snap Inc.",
+        "id": 10,
+        "description": "Snapchat is a camera-first app built for spontaneity and close friendships. Send Snaps that disappear, add creative lenses and filters, and turn everyday moments into playful exchanges. Stories offer a window into friends’ days, while Memories archive highlights you want to keep.\n\nMaps bring a sense of place: see where friends are sharing, browse popular spots, and explore local events. Spotlight showcases short videos from the community, giving anyone a chance to be discovered. Streaks and Bitmoji add a layer of fun that keeps conversations lively and personal.\n\nPrivacy choices are straightforward: decide who can contact you, view your Story, or see your location. The app emphasizes ephemeral sharing, reducing the pressure to be perfect. Safety tools and parental features continue to evolve, supporting healthier use.\n\nFor creators and brands, Snapchat offers AR lens tools, public profiles, and analytics. Whether you’re chatting one-on-one or experimenting with augmented reality, Snapchat makes communication feel light, fast, and expressive.",
+        "size": 28,
+        "reviews": 90000000,
+        "ratingAvg": 4.2,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7000000
+            },
+            {
+                "name": "2 star",
+                "count": 8000000
+            },
+            {
+                "name": "3 star",
+                "count": 19000000
+            },
+            {
+                "name": "4 star",
+                "count": 28000000
+            },
+            {
+                "name": "5 star",
+                "count": 28000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+        "title": "Telegram",
+        "companyName": "Telegram FZ-LLC",
+        "id": 11,
+        "description": "Telegram is a powerful messaging app known for speed, large groups, and cloud sync that follows you across devices. Chats load instantly, media streams quickly, and you can log in from phones, tablets, and desktops simultaneously without losing history. File sharing supports large documents and full-resolution media.\n\nGroups scale to hundreds of thousands of members with granular admin roles, anti-spam tools, and topics to organize discussion. Channels broadcast to unlimited audiences, making Telegram a hub for news, communities, and creator updates. Bots extend functionality with mini-apps, payments, polls, and inline utilities.\n\nPrivacy options include secret chats with end-to-end encryption, self-destruct timers, and the ability to hide your phone number. Customization is deep: themes, animated stickers, and flexible folders let you shape the experience to your taste. Advanced search and message quoting keep fast conversations navigable.\n\nDevelopers benefit from open APIs and a vibrant ecosystem of clients and tools. Whether you’re coordinating a global community or sharing high-quality media with friends, Telegram pairs flexibility with speed at scale.",
+        "size": 40,
+        "reviews": 35000000,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200000
+            },
+            {
+                "name": "2 star",
+                "count": 1700000
+            },
+            {
+                "name": "3 star",
+                "count": 4200000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 15900000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+        "title": "Amazon Shopping",
+        "companyName": "Amazon Mobile LLC",
+        "id": 12,
+        "description": "Amazon Shopping brings a global marketplace to your pocket—millions of products, fast delivery options, and reliable customer service. Search by text, voice, or camera to find exactly what you need; compare prices, read reviews, and check delivery dates before you buy. Lists, notifications, and order history keep your shopping organized.\n\nPrime members get perks: fast shipping on eligible items, exclusive deals, Prime Video access, and more depending on region. Subscribe & Save automates essentials, while Household and Family features make it easy to share benefits responsibly across accounts.\n\nThe app prioritizes trust. A-to-z guarantee, transparent seller ratings, and easy returns give you confidence. Real-time delivery tracking with photo confirmation reduces uncertainty, and customer support remains reachable when issues arise.\n\nFor sellers, the ecosystem includes storefronts, advertising tools, and fulfillment services. Whether you’re discovering unique brands or restocking household staples, Amazon’s scale and logistics turn browsing into reliable doorstep delivery.",
+        "size": 52,
+        "reviews": 93000000,
+        "ratingAvg": 4.4,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6000000
+            },
+            {
+                "name": "2 star",
+                "count": 7000000
+            },
+            {
+                "name": "3 star",
+                "count": 16000000
+            },
+            {
+                "name": "4 star",
+                "count": 29000000
+            },
+            {
+                "name": "5 star",
+                "count": 35000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg",
+        "title": "X (formerly Twitter)",
+        "companyName": "X Corp.",
+        "id": 13,
+        "description": "X is a real-time conversation network where breaking news, cultural moments, and niche communities collide in a single scrolling timeline. From sports highlights and award-show reactions to government announcements and scientific breakthroughs, the app surfaces live perspectives as events unfold. Lists, search, and advanced filters help you carve signal from noise so you can follow the people, topics, and outlets that actually matter to you.\n\nPosting is designed for speed and reach. Share text, photos, long-form videos, and polls, or host live audio conversations with Spaces to bring interviews, AMAs, and town halls to your audience. Quote posts and threads let you add context, while bookmarks keep important reads at hand. Scheduling tools and draft support help you plan ahead without losing spontaneity.\n\nMonetization and professional features continue to evolve. Eligible creators can participate in revenue programs, promote posts, and view detailed analytics on impressions, engagement, and audience demographics. Verification options, media controls, and reply moderation give public figures and brands more granular ways to manage conversations at scale.\n\nSafety and control features provide guardrails for everyday use. Set who can reply, mute specific words or accounts, and tailor notifications to reduce overwhelm. With customizable timelines, topic follows, and cross-device sync, X remains a fast, public square for ideas—whether you’re publishing to millions or listening from the sidelines.",
+        "size": 68,
+        "reviews": 45000000,
+        "ratingAvg": 4.0,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4200000
+            },
+            {
+                "name": "2 star",
+                "count": 5000000
+            },
+            {
+                "name": "3 star",
+                "count": 9000000
+            },
+            {
+                "name": "4 star",
+                "count": 14000000
+            },
+            {
+                "name": "5 star",
+                "count": 12800000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg",
+        "title": "LinkedIn",
+        "companyName": "Microsoft",
+        "id": 14,
+        "description": "LinkedIn is the professional network where careers are built in public. Your feed centralizes industry news, company updates, and insights from leaders across technology, finance, healthcare, and beyond. Follow topics, hashtags, and creators to keep your expertise sharp, and use the built-in reader to save long reports for later study.\n\nProfiles act as living resumes. Showcase projects, certifications, publications, and rich media so your work speaks for itself. Recommendations, skills endorsements, and portfolio links add depth, while creator mode unlocks analytics and tools for those who publish regularly.\n\nMessaging integrates seamlessly with job search and sales workflows. Share resumes, book interviews, and coordinate introductions without switching apps. Recruiter and Sales Navigator layers offer advanced filters, pipeline tracking, and smart suggestions, helping teams source talent and build relationships at scale.\n\nLearning resources round out the platform. LinkedIn Learning’s video courses cover everything from Excel and SQL to leadership and communication—paired with quizzes and completion certificates that can be displayed on your profile. Whether you’re switching careers or levelling up in your field, LinkedIn helps you stay visible, connected, and informed.",
+        "size": 74,
+        "reviews": 42000000,
+        "ratingAvg": 4.3,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2600000
+            },
+            {
+                "name": "2 star",
+                "count": 3600000
+            },
+            {
+                "name": "3 star",
+                "count": 7400000
+            },
+            {
+                "name": "4 star",
+                "count": 14000000
+            },
+            {
+                "name": "5 star",
+                "count": 14400000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg",
+        "title": "Microsoft Teams",
+        "companyName": "Microsoft",
+        "id": 15,
+        "description": "Microsoft Teams centralizes chats, meetings, files, and apps into one secure workspace. Channels organize conversation by project or theme so decisions and documents stay discoverable. Rich messaging supports threads, reactions, and fluid components that keep context intact during fast-moving discussions.\n\nMeetings scale from quick huddles to large webinars with screen sharing, collaborative whiteboards, breakout rooms, and intelligent noise suppression. Meeting recaps compile recordings, transcripts, and action items automatically so absent teammates can catch up quickly. Calendars, tasks, and notes sync with Microsoft 365 to reduce duplicate work.\n\nDeep integrations allow Teams to become your daily launcher. Add tabs for dashboards, wikis, or third-party tools like GitHub, Trello, and Salesforce. Approvals, forms, and low-code apps streamline common workflows, while robust search finds messages, people, and files across your tenant.\n\nEnterprise-grade security underpins it all—conditional access, DLP, eDiscovery, and retention policies meet compliance requirements. With guest access, cross-organization collaboration is straightforward, and mobile optimizations keep you productive between meetings, on-site visits, or while commuting.",
+        "size": 98,
+        "reviews": 27000000,
+        "ratingAvg": 4.5,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900000
+            },
+            {
+                "name": "2 star",
+                "count": 1500000
+            },
+            {
+                "name": "3 star",
+                "count": 4200000
+            },
+            {
+                "name": "4 star",
+                "count": 9000000
+            },
+            {
+                "name": "5 star",
+                "count": 11400000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg",
+        "title": "Zoom",
+        "companyName": "Zoom Video Communications, Inc.",
+        "id": 16,
+        "description": "Zoom delivers reliable video meetings that scale from quick one-on-ones to global events. HD video and crisp audio adapt to bandwidth constraints, with features like background noise cancellation and low-light adjustments for challenging environments. Screen sharing, remote control, and multi-share enable collaborative work without friction.\n\nScheduling integrates with Google Calendar, Outlook, and Teams, while Personal Meeting IDs and waiting rooms simplify repeated sessions with clients and partners. Breakout rooms create small-group discussions during workshops and classes, and polling keeps audiences engaged during webinars.\n\nSecurity features are layered and transparent. Waiting rooms, passcodes, host controls, and end-to-end encryption (for supported scenarios) keep meetings safe by default. Admin dashboards provide visibility into performance and compliance across large organizations.\n\nCloud recording with transcripts, whiteboards, and chat export turn meetings into searchable knowledge assets. Companion apps for phones and tablets keep you connected on the move, and Zoom Rooms scale the experience into conference spaces with one-touch join and smart camera framing.",
+        "size": 86,
+        "reviews": 38000000,
+        "ratingAvg": 4.4,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2300000
+            },
+            {
+                "name": "2 star",
+                "count": 3000000
+            },
+            {
+                "name": "3 star",
+                "count": 6400000
+            },
+            {
+                "name": "4 star",
+                "count": 12600000
+            },
+            {
+                "name": "5 star",
+                "count": 13700000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png",
+        "title": "Uber",
+        "companyName": "Uber Technologies, Inc.",
+        "id": 17,
+        "description": "Uber connects riders and drivers in minutes with upfront pricing and live ETAs. The map-first interface shows nearby cars, fare estimates, and multiple ride options—from budget to premium—so you can choose the balance of price, comfort, and arrival time. Real-time tracking, driver details, and in-app calling keep coordination simple and transparent.\n\nSafety is integrated at every step. Share your trip with trusted contacts, access emergency assistance, and review driver ratings and ride details from the receipt. Community guidelines set expectations for respectful behavior, and support teams investigate reported incidents swiftly.\n\nBeyond rides, Uber expands into mobility and delivery. Reserve airport pickups, rent bikes and scooters in supported cities, or order meals and groceries through Uber Eats. Business profiles and monthly passes streamline receipts and savings for frequent travelers.\n\nPayment is seamless with saved cards, wallets, or cash (region dependent). Fare splitting, promos, and reward programs make the experience flexible, while accessibility features—from pickup notes to wheelchair-accessible options—work to broaden availability.",
+        "size": 87,
+        "reviews": 95000000,
+        "ratingAvg": 4.3,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7200000
+            },
+            {
+                "name": "2 star",
+                "count": 8200000
+            },
+            {
+                "name": "3 star",
+                "count": 17500000
+            },
+            {
+                "name": "4 star",
+                "count": 29000000
+            },
+            {
+                "name": "5 star",
+                "count": 33300000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg",
+        "title": "Airbnb",
+        "companyName": "Airbnb, Inc.",
+        "id": 18,
+        "description": "Airbnb turns travel into lived experience—homes, private rooms, and unique stays that place you inside neighborhoods rather than beside them. Search by destination, dates, and flexible filters like entire place, pet-friendly, or dedicated workspace. Photos, amenity checklists, and detailed house rules set clear expectations before you book.\n\nHosts are the heart of the platform. Superhost badges recognize consistent excellence, and messaging bridges questions about arrival times, parking, and local tips. Clear pricing breakdowns and cleaning standards aim to reduce surprises, while reviews from both guests and hosts create accountability.\n\nFor safety and comfort, identity verification, secure payments, and reservation support provide assurance. Self-check-in, digital guidebooks, and local recommendations remove friction on arrival day. Trip coordination tools let groups share itineraries and split responsibilities.\n\nAirbnb Experiences add tours, classes, and activities hosted by locals—from food walks to photography lessons—so you can connect with a city’s culture beyond the room. Whether planning a weekend escape or a remote-work month abroad, Airbnb offers flexibility with a human touch.",
+        "size": 64,
+        "reviews": 42000000,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1900000
+            },
+            {
+                "name": "2 star",
+                "count": 2500000
+            },
+            {
+                "name": "3 star",
+                "count": 5600000
+            },
+            {
+                "name": "4 star",
+                "count": 13000000
+            },
+            {
+                "name": "5 star",
+                "count": 19000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg",
+        "title": "PayPal",
+        "companyName": "PayPal Holdings, Inc.",
+        "id": 19,
+        "description": "PayPal simplifies paying and getting paid online. Link cards and bank accounts once, and checkout securely across millions of stores without re-entering details. Buyer protection and dispute resolution add confidence, while two-factor authentication and encryption safeguard accounts against fraud.\n\nSending money to friends and family is fast—search a contact, add a note, and tap send. For small businesses and freelancers, invoices, subscription billing, and QR codes make payments professional and trackable. Detailed histories and exports keep your books tidy during tax season.\n\nInternational transfers benefit from transparent fees and currency conversion. In supported regions, PayPal can hold balances, offer savings tools, or connect to a debit card for instant access. Donation tools allow individuals and charities to fundraise with minimal setup.\n\nThe app provides alerts for incoming payments, refunds, and login attempts so you stay informed. With predictable policies and global reach, PayPal remains a trusted bridge between buyers and sellers on the internet.",
+        "size": 61,
+        "reviews": 33000000,
+        "ratingAvg": 4.4,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1400000
+            },
+            {
+                "name": "2 star",
+                "count": 2000000
+            },
+            {
+                "name": "3 star",
+                "count": 5200000
+            },
+            {
+                "name": "4 star",
+                "count": 10800000
+            },
+            {
+                "name": "5 star",
+                "count": 13600000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+        "title": "Disney+",
+        "companyName": "Disney Streaming",
+        "id": 20,
+        "description": "Disney+ is a curated home for stories from Disney, Pixar, Marvel, Star Wars, and National Geographic. Profiles for kids and adults keep recommendations age-appropriate, and 4K HDR with Dolby Atmos (where supported) delivers cinema-quality at home. Downloads let you watch on planes, trains, and road trips without burning data.\n\nCollections help you explore by franchise, era, or theme. Watch in timeline order, discover behind-the-scenes documentaries, and save favorites for repeat nights in. The interface keeps navigation simple—continue where you left off, or browse hubs when you’re ready to venture beyond your comfort picks.\n\nParental controls add PIN locks and content ratings to maintain boundaries in shared households. Accessibility options include audio descriptions and customizable subtitles, making stories more inclusive. Device support spans phones, tablets, smart TVs, and consoles for seamless handoff.\n\nOriginal series and exclusive premieres anchor the service, with global release schedules and localized dubs/subs. If your group is remote, GroupWatch synchronizes playback so you react in real time, bridging distance with shared moments.",
+        "size": 52,
+        "reviews": 18000000,
+        "ratingAvg": 4.5,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 900000
+            },
+            {
+                "name": "3 star",
+                "count": 2800000
+            },
+            {
+                "name": "4 star",
+                "count": 5600000
+            },
+            {
+                "name": "5 star",
+                "count": 7900000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Reddit_logo_new.svg",
+        "title": "Reddit",
+        "companyName": "Reddit, Inc.",
+        "id": 21,
+        "description": "Reddit is a constellation of communities where curiosity is the culture. Subreddits gather people around hobbies, news, local events, and the oddly specific. Your Home feed adapts to the communities you join, and robust search helps you uncover deep threads, AMAs, and guides created by enthusiasts and experts.\n\nPosting supports text, images, galleries, links, and video, with flairs and rules that keep each community focused. Upvotes surface useful contributions, while comments branch into nested conversations that make it easy to follow side debates without losing the main thread.\n\nModeration tools empower volunteer teams to maintain healthy spaces—automod rules, spam filters, and report queues catch issues early. Users can filter content, hide spoilers, and switch to compact or media-rich views depending on bandwidth and preference.\n\nFor creators and brands, Reddit offers promoted posts and measurement tools suited to interest-driven audiences. Whether you’re troubleshooting a server, learning a recipe, or joining a fandom, Reddit’s depth turns scattered knowledge into discoverable, living archives.",
+        "size": 63,
+        "reviews": 32000000,
+        "ratingAvg": 4.4,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1800000
+            },
+            {
+                "name": "2 star",
+                "count": 2200000
+            },
+            {
+                "name": "3 star",
+                "count": 5200000
+            },
+            {
+                "name": "4 star",
+                "count": 10800000
+            },
+            {
+                "name": "5 star",
+                "count": 12000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg",
+        "title": "Dropbox",
+        "companyName": "Dropbox, Inc.",
+        "id": 22,
+        "description": "Dropbox keeps your files in sync and within reach across devices. Save docs, photos, and videos once—then access them from phone, desktop, or the web without emailing yourself attachments. Smart sync and selective offline folders help you balance storage and speed when working on limited space.\n\nCollaboration extends beyond storage. Share links with granular permissions, collect file requests from external partners, and use Paper docs to co-author notes, specs, and meeting agendas. Version history and recovery reduce the fear of overwriting important work, and activity feeds show who changed what and when.\n\nIntegrations make Dropbox a quiet backbone for teams. Connect to Microsoft 365 and Google Workspace for in-place editing, route approvals through Slack or Teams, and automate routine file moves with simple scripts. Scanning turns paper receipts and whiteboards into searchable PDFs that sit neatly beside your digital files.\n\nSecurity is table stakes: encryption in transit and at rest, device-level PINs, and remote wipe protect sensitive data. Admin controls give businesses visibility into sharing and access, while personal users appreciate the reliability and predictability of a tool that ‘just works’ when deadlines loom.",
+        "size": 46,
+        "reviews": 18000000,
+        "ratingAvg": 4.3,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900000
+            },
+            {
+                "name": "2 star",
+                "count": 1300000
+            },
+            {
+                "name": "3 star",
+                "count": 4000000
+            },
+            {
+                "name": "4 star",
+                "count": 6200000
+            },
+            {
+                "name": "5 star",
+                "count": 6500000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+        "title": "Pinterest",
+        "companyName": "Pinterest, Inc.",
+        "id": 23,
+        "description": "Pinterest is a visual discovery engine where ideas begin as Pins and grow into projects, purchases, and plans. Search results become mood boards in motion: home décor, recipes, fashion, workouts, lesson plans—each Pin links to a source so you can learn, save, or buy. The interface favors clarity over clutter, letting images take center stage while descriptions, links, and notes stay close at hand.\n\nBoards and sections turn inspiration into structure. Create public boards to collaborate with friends or private boards for surprise gifts and personal goals. Sections nest within boards so large ideas—like a wedding or a remodel—stay organized from brainstorming to execution. With board notes and checklists, you can move from collecting to doing without switching tools.\n\nDiscovery is continuous. Related Pins branch out into visual rabbit holes, while the Home feed blends your saved tastes with fresh, diverse ideas. Lens visual search lets you point your camera at an object and uncover matching styles, DIY guides, and places to buy similar items. The more you interact, the better the system understands what you’re exploring next.\n\nFor creators and brands, Rich Pins, product catalogs, and shopping tags make content actionable. Analytics reveal what resonates, seasonal trends highlight upcoming opportunities, and collaborative boards connect people with shared projects. Pinterest remains a gentle, focused space for turning curiosity into plans you can actually follow through on.",
+        "size": 41,
+        "reviews": 25000000,
+        "ratingAvg": 4.6,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 900000
+            },
+            {
+                "name": "2 star",
+                "count": 1200000
+            },
+            {
+                "name": "3 star",
+                "count": 3500000
+            },
+            {
+                "name": "4 star",
+                "count": 7800000
+            },
+            {
+                "name": "5 star",
+                "count": 11500000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Duolingo_logo_2022.svg",
+        "title": "Duolingo",
+        "companyName": "Duolingo, Inc.",
+        "id": 24,
+        "description": "Duolingo brings language learning into a playful, daily habit. Lessons are bite-sized and gamified, balancing reading, writing, listening, and speaking with quick feedback that keeps momentum. The owl mascot cheers you on while streak freezes, gems, and daily goals make practice feel rewarding instead of daunting.\n\nUnder the hood, spaced repetition and adaptive exercises personalize difficulty so time isn’t wasted on what you already know. Speech recognition provides immediate pronunciation feedback, while stories and podcasts (for supported languages) expose you to authentic contexts that textbooks miss. Hints and grammar notes appear when you need them, then fade once concepts stick.\n\nProgress tracking goes beyond streaks. Skill trees visualize advancement, unit tests unlock shortcuts, and review sessions target weak spots identified by your history. Offline lessons let you learn during commutes and flights, and cross-device sync means your phone, tablet, and desktop stay aligned.\n\nFor classrooms and self-starters alike, Duolingo turns consistency into capability. Leaderboards and friends lists add light competition; Super Duolingo removes ads, unlocks unlimited hearts, and adds personalized practice. Whether you’re prepping for travel or strengthening career skills, the app makes languages approachable and sticky.",
+        "size": 28,
+        "reviews": 14000000,
+        "ratingAvg": 4.7,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 350000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 1300000
+            },
+            {
+                "name": "4 star",
+                "count": 3800000
+            },
+            {
+                "name": "5 star",
+                "count": 8100000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Acrobat_Reader_icon_(2020).svg",
+        "title": "Adobe Acrobat Reader",
+        "companyName": "Adobe Inc.",
+        "id": 25,
+        "description": "Adobe Acrobat Reader is the gold standard for viewing, annotating, and filling PDFs on the go. Open large documents quickly, search with precision, and jump between bookmarks and thumbnails without losing your place. The reading experience adapts to your context with continuous scrolling, single-page mode, and dark mode to reduce eye strain.\n\nMarkup tools are extensive yet approachable. Highlight, underline, and strike through text; add sticky notes; and draw freehand when sketches communicate faster than words. Forms are a first-class experience: type directly into fields, check boxes, and add signatures using your finger or stylus with legally trusted e-sign features.\n\nCollaboration keeps workflows moving. Share for comments, track feedback in a unified timeline, and protect sensitive documents with passwords. Cloud connections to Adobe cloud, Google Drive, Dropbox, and OneDrive mean files stay available across your devices and teams.\n\nFor power users, subscription options unlock editing text, combining files, compressing documents, and exporting to Word or Excel with reliable formatting. Whether you’re a student, contractor, or legal professional, Acrobat Reader turns PDFs from static pages into living, actionable assets.",
+        "size": 52,
+        "reviews": 36000000,
+        "ratingAvg": 4.6,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200000
+            },
+            {
+                "name": "2 star",
+                "count": 1700000
+            },
+            {
+                "name": "3 star",
+                "count": 4500000
+            },
+            {
+                "name": "4 star",
+                "count": 12300000
+            },
+            {
+                "name": "5 star",
+                "count": 16300000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/CapCut_Logo.svg",
+        "title": "CapCut",
+        "companyName": "ByteDance Pte. Ltd.",
+        "id": 26,
+        "description": "CapCut is a mobile video editor that compresses studio tools into a fast, approachable workspace. Trim, split, and reorder clips with a magnetic timeline, then layer music, voiceovers, and sound effects directly from built-in libraries. Intelligent auto-captions and beat syncing accelerate edits that used to take hours.\n\nEffects and templates are where CapCut shines. Transitions, filters, motion graphics, and text animations turn raw footage into social-ready stories with minimal effort. Green screen, keyframes, and speed ramping are available for creators who want cinematic control without a laptop.\n\nExporting is flexible and fast. Choose aspect ratios for TikTok, Reels, YouTube, or Stories; render at high frame rates or resolutions when quality matters; and save presets for your channel standards. Cloud projects can sync across devices, making it easy to start a cut on your phone and polish it on a tablet.\n\nWhether you’re producing daily vlogs or brand promos, CapCut reduces friction between imagination and upload. Tutorials and community templates help you learn by remixing, and frequent updates add trending effects so your style stays current.",
+        "size": 83,
+        "reviews": 28000000,
+        "ratingAvg": 4.5,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200000
+            },
+            {
+                "name": "2 star",
+                "count": 1600000
+            },
+            {
+                "name": "3 star",
+                "count": 4800000
+            },
+            {
+                "name": "4 star",
+                "count": 10000000
+            },
+            {
+                "name": "5 star",
+                "count": 10400000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Khan_Academy_logo_%282018%29.svg",
+        "title": "Khan Academy",
+        "companyName": "Khan Academy",
+        "id": 27,
+        "description": "Khan Academy offers a free, world-class education for anyone, anywhere. Short, focused videos explain math, science, economics, computing, and humanities concepts with clarity. Practice exercises adapt to your skill level, giving hints and step-by-step solutions that turn confusion into progress.\n\nLearning paths connect topics logically so knowledge compounds. Mastery challenges resurface prior material to reinforce long-term retention, while unit tests let you prove readiness before moving on. For many subjects, interactive widgets and simulations transform abstract ideas into hands-on understanding.\n\nParents and teachers get dashboards that reveal where students excel and where they’re stuck. Assign content, track time spent, and celebrate milestones with badges and energy points that keep motivation high. SAT, LSAT, and other prep modules bring high-stakes studying into the same proven environment.\n\nOffline support and multilingual content broaden access globally. With a mission-driven approach and partnerships with educators, Khan Academy keeps improving depth and pedagogy, ensuring learners at any age can build solid foundations for school, work, and life.",
+        "size": 39,
+        "reviews": 5200000,
+        "ratingAvg": 4.7,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 90000
+            },
+            {
+                "name": "2 star",
+                "count": 140000
+            },
+            {
+                "name": "3 star",
+                "count": 360000
+            },
+            {
+                "name": "4 star",
+                "count": 1600000
+            },
+            {
+                "name": "5 star",
+                "count": 3000000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Shazam_logo.svg",
+        "title": "Shazam",
+        "companyName": "Apple Inc.",
+        "id": 28,
+        "description": "Shazam identifies music playing around you in seconds. Tap the big button, and a fingerprint of the audio is matched against a global database to reveal the track, artist, and links to listen on your favorite services. It works through ambient noise at cafés, in cars, and even from TV speakers.\n\nHistory keeps your discoveries organized, while auto-Shazam listens in the background to capture songs without manual taps—useful at parties or while driving. Lyrics scroll in sync for supported tracks so you can follow along or learn the chorus you half-remember.\n\nIntegration is deep. Add found songs to Apple Music or Spotify playlists automatically, share to stories, and explore charts to see what’s trending globally and locally. The app also recommends related tracks and live performances, broadening your listening palette.\n\nLightweight and fast, Shazam excels at one task and keeps getting better at it. From fleeting snippets to earworms stuck in your head, it closes the gap between “what’s that song?” and adding it to your collection.",
+        "size": 16,
+        "reviews": 9000000,
+        "ratingAvg": 4.8,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 450000
+            },
+            {
+                "name": "4 star",
+                "count": 1900000
+            },
+            {
+                "name": "5 star",
+                "count": 6400000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon_2019.svg",
+        "title": "Slack",
+        "companyName": "Slack Technologies, LLC",
+        "id": 29,
+        "description": "Slack is a collaboration hub where work conversations, files, and tools live together. Channels organize topics so updates stay transparent and searchable, replacing siloed email threads. Threads keep side discussions tidy, and reactions allow quick acknowledgment without noise.\n\nMeetings shrink as messages grow richer. Huddles start audio-first collaboration with screen sharing in a click, while clips enable short video updates that teammates can watch on their own time. Canvas documents capture decisions and onboarding steps right inside the workspace.\n\nApps and workflows pull your stack together: connect GitHub, Jira, Google Drive, and hundreds more to receive actionable notifications and automate approvals. Powerful search with filters finds past decisions by person, channel, or time, so institutional memory doesn’t vanish when people change roles.\n\nEnterprise-grade security, granular admin controls, and cross-org Slack Connect keep collaboration safe beyond company walls. With desktop and mobile parity, Slack adapts to focused deep work and quick responses alike, becoming the nervous system for modern teams.",
+        "size": 62,
+        "reviews": 11000000,
+        "ratingAvg": 4.4,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400000
+            },
+            {
+                "name": "2 star",
+                "count": 600000
+            },
+            {
+                "name": "3 star",
+                "count": 1700000
+            },
+            {
+                "name": "4 star",
+                "count": 3600000
+            },
+            {
+                "name": "5 star",
+                "count": 4700000
+            }
+        ]
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg",
+        "title": "Microsoft Outlook",
+        "companyName": "Microsoft",
+        "id": 30,
+        "description": "Microsoft Outlook combines email, calendar, contacts, and files with a focus on organization and security. The inbox prioritizes important messages using Focused Inbox, while powerful search and natural-language queries surface the exact thread or attachment you need. Swipe gestures make triage fast on mobile, and customizable categories keep projects color-coded across devices.\n\nCalendar is built-in, not bolted on. Propose new times, view multiple calendars side-by-side, and join meetings from invites with one tap. Shared mailboxes and delegated access support assistants and teams who manage group addresses or executives’ schedules.\n\nIntegration with Microsoft 365 shines in daily workflows. Open Word, Excel, and PowerPoint attachments in place; save files to OneDrive without downloading; and insert availability or polls directly into messages. Add-ins extend Outlook with CRM tools, e-signatures, and productivity helpers tailored to your organization.\n\nSecurity and compliance are first-class: enterprise-grade encryption, phishing detection, and conditional access policies protect accounts at scale. Whether you manage a single personal inbox or a complex enterprise environment, Outlook remains a reliable, professional command center for communication and time.",
+        "size": 49,
+        "reviews": 52000000,
+        "ratingAvg": 4.5,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2200000
+            },
+            {
+                "name": "2 star",
+                "count": 3000000
+            },
+            {
+                "name": "3 star",
+                "count": 7000000
+            },
+            {
+                "name": "4 star",
+                "count": 17000000
+            },
+            {
+                "name": "5 star",
+                "count": 22800000
+            }
+        ]
+    }
+]
