@@ -28,7 +28,6 @@ const Apps = () => {
 
     const handleSearch = (event) => {
         const term = event.target.value.trim().toLowerCase();
-        console.log(searchTerm);
         setSearchTerm(term);
 
         if (term !== '' && !loading) {
@@ -36,14 +35,11 @@ const Apps = () => {
         }
     };
 
+    if (error) return <p>Error loading app details: {error.message}</p>;
+
     const showLoading = loading || isSearching;
 
     const appsToDisplay = matchedData.length > 0 ? matchedData : data;
-
-
-    console.log(matchedData);
-
-
 
     return (
         <div className=' mx-auto bg-base-200 pb-10'>

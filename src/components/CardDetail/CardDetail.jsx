@@ -7,6 +7,7 @@ import { useState } from 'react';
 import { Bounce, toast } from 'react-toastify';
 import AppNotFound from '../../pages/NotFound/AppNotFound';
 import RatingBarChart from '../RatingBarChart/RatingBarChart';
+import Loading from '../Loading/Loading';
 
 const CardDetail = () => {
     const [installed, setInstalled] = useState(false);
@@ -14,17 +15,13 @@ const CardDetail = () => {
     const { id } = useParams();
     const { data, loading, error } = useAppsListJSON();
     const appDetails = data.find(app => app.id === parseInt(id));
-    console.log(appDetails);
     
-    if (loading) return <p>Loading...</p>;
+    if (loading) return <Loading />;
     if (error) return <p>Error loading app details: {error.message}</p>;
     if (!appDetails) return <AppNotFound />;
     
     const { image, title, companyName, downloads, ratingAvg, size, ratings} = appDetails;
-    console.log(ratings);
 
-
-    
 
     const handleInstall = () => {
         setInstalled(true);
