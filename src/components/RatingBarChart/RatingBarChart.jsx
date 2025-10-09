@@ -1,7 +1,7 @@
-import { Bar, BarChart, CartesianGrid, LabelList, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { Bar, BarChart, LabelList, ResponsiveContainer, XAxis, YAxis } from 'recharts';
 
 const RatingBarChart = ({ratings}) => {
-    const sortingRatings = ratings.sort((a, b) => b.count - a.count);
+    const sortingRatings = [...ratings].sort((a, b) => b.count - a.count);
     
     return (
         <div style={{ width: "80%", height: 250 }}>

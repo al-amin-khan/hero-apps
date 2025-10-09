@@ -8,8 +8,14 @@ import { Bounce, toast } from 'react-toastify';
 import AppNotFound from '../../pages/NotFound/AppNotFound';
 import RatingBarChart from '../RatingBarChart/RatingBarChart';
 import Loading from '../Loading/Loading';
+import useLocalStorage from '../../hooks/useLocalStorage';
 
 const CardDetail = () => {
+    const storeInLocal = useLocalStorage();
+    const installedApps = storeInLocal.get();
+    console.log(installedApps);
+    
+
     const [installed, setInstalled] = useState(false);
 
     const { id } = useParams();
@@ -37,7 +43,11 @@ const CardDetail = () => {
             theme: "light",
             transition: Bounce,
         });
+
+        storeInLocal.set({id, installed: true});
     }
+
+    const isInstalled = installedApps.some(item => item.id === id);
 
 
 
@@ -98,9 +108,9 @@ const CardDetail = () => {
 
                             <div>
                                 {
-                                    !installed ?
+                                    !isInstalled ?
                                         <button onClick={handleInstall} className='btn bg-[#00D390] text-white'>Install Now ({size} MB)</button> :
-                                        <button className={`btn text-gray-700 ${installed ? 'bg-gray-400 disabled hover:cursor-not-allowed' : ''} `}>Installed</button>
+                                        <button className={`btn text-gray-700 ${isInstalled ? 'bg-gray-400 disabled hover:cursor-not-allowed' : ''} `}>Installed</button>
                                 }
                             </div>
                         </div>
