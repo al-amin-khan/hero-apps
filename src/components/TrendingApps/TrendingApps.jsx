@@ -2,6 +2,7 @@ import React from 'react';
 import useAppsListJSON from '../../hooks/useAppsListJSON';
 import Card from '../Card/Card';
 import { Link } from 'react-router';
+import Loading from '../Loading/Loading';
 
 const TrendingApps = () => {
     const { data, loading, error } = useAppsListJSON();
@@ -14,7 +15,7 @@ const TrendingApps = () => {
                 <p className='text-[#627382] text-xl'>Explore All Trending Apps on the Market developed by us</p>
                 <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-4 pt-10 pb-10">
                     {
-                        loading ? <p>Loading...</p> : sliceAppList.map(app => <Card key={app.id} appData={app} />)
+                        loading ? <Loading showNumOfSkeleton={8}/> : sliceAppList.map(app => <Card key={app.id} appData={app} />)
                     }
                 </div>
                 <div>
