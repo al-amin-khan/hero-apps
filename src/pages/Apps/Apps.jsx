@@ -15,14 +15,14 @@ const Apps = () => {
 
     useEffect(() => {
         setIsSearching(false);
-        if(debouncedSearchTerm === "") {
+        if (debouncedSearchTerm === "") {
             setMatchedData(data);
             setIsSearching(false);
         } else {
-            const filtered = data.filter(app => 
-                    app.title.trim().toLowerCase().includes(debouncedSearchTerm)
-                );
-                setMatchedData(filtered);
+            const filtered = data.filter(app =>
+                app.title.trim().toLowerCase().includes(debouncedSearchTerm)
+            );
+            setMatchedData(filtered);
         }
     }, [debouncedSearchTerm, data]);
 
@@ -39,10 +39,10 @@ const Apps = () => {
     const showLoading = loading || isSearching;
 
     const appsToDisplay = matchedData.length > 0 ? matchedData : data;
-    
+
 
     console.log(matchedData);
-    
+
 
 
     return (
@@ -53,7 +53,7 @@ const Apps = () => {
 
                 <div className="flex justify-between items-center mt-10">
                     <div className="">
-                        <p>({appsToDisplay.length}) Apps Found</p>
+                        <p>({matchedData.length === 0 && searchTerm !== '' ? 0 : appsToDisplay.length}) Apps Found</p>
                     </div>
                     <div className="">
                         <label className="input">
@@ -63,11 +63,22 @@ const Apps = () => {
                     </div>
                 </div>
 
-                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-4 pt-10 pb-10">
+                <>
                     {
-                        showLoading ? <Loading show={12} /> : appsToDisplay.map(app => <Card key={app.id} appData={app} />)
+                        matchedData.length === 0 && searchTerm !== '' ?
+                            (
+                                <p className='text-2xl text-center text-gray-400 flex justify-center'>No results found for "{searchTerm}"</p>
+                            ) :
+                            (
+                                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-4 pt-10 pb-10">
+                                    {
+                                        showLoading ? <Loading show={12} /> :
+                                            appsToDisplay.map(app => <Card key={app.id} appData={app} />)
+                                    }
+                                </div>
+                            )
                     }
-                </div>
+                </>
             </div>
         </div>
     );
