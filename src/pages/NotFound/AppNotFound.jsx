@@ -1,12 +1,13 @@
 import { MdArrowBackIos } from 'react-icons/md';
 import { useNavigate } from 'react-router';
+import appErrorImage from '../../assets/App-Error.png';
 
 const AppNotFound = () => {
     const navigate = useNavigate();
     return (
         <div className='text-center my-10'>
             <div className='flex flex-col justify-center items-center my-4 space-y-2'>
-                <img className='h-full' src="../src/assets/App-Error.png" alt="404 Not Found" />
+                <img className='h-full' src={appErrorImage} alt="404 Not Found" />
                 <p className='text-4xl text-gray-700'>Oops, The App Not Found</p>
                 <p className='text-lg text-gray-400'>The app you are looking for does not available.</p>
                 <button
