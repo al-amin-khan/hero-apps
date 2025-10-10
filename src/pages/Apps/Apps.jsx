@@ -66,7 +66,7 @@ const Apps = () => {
                                 <p className='text-2xl text-center text-gray-400 flex justify-center'>No results found for "{searchTerm}"</p>
                             ) :
                             (
-                                <div className="w-[90%] mx-auto md:w-full lg:w-full grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4 pt-10 pb-10">
+                                <div className="w-[90%] mx-auto md:w-full lg:w-full grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 pt-10 pb-10">
                                     {
                                         showLoading ? <Loading show={12} /> :
                                             appsToDisplay.map(app => <Card key={app.id} appData={app} />)
