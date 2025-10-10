@@ -14,7 +14,7 @@ const HeroFooter = () => {
                             <p className="text-purple-200">Get the latest apps and exclusive deals delivered to your inbox</p>
                         </div>
                         <div className="flex-1 max-w-md w-full">
-                            <div className="flex gap-2">
+                            <div className="flex flex-col md:flex-row lg:flex-row gap-2">
                                 <input
                                     type="email"
                                     placeholder="Enter your email"
@@ -164,7 +164,7 @@ const HeroFooter = () => {
                                 <div className="text-sm text-purple-300">Downloads</div>
                             </div>
                         </div>
-                        <div className="flex items-center gap-3 justify-center">
+                        <div className="flex items-center gap-3 justify-center mr-2 pr-1 md:mr-0 lg:mr-0">
                             <div className="w-12 h-12 bg-gradient-to-br from-purple-500/20 to-pink-500/20 rounded-lg flex items-center justify-center">
                                 <Star className="w-6 h-6 text-purple-400" />
                             </div>
@@ -173,7 +173,7 @@ const HeroFooter = () => {
                                 <div className="text-sm text-purple-300">User Rating</div>
                             </div>
                         </div>
-                        <div className="flex items-center gap-3 justify-center">
+                        <div className="flex items-center gap-3 justify-center ml-2 md:ml-0 lg:ml-0">
                             <div className="w-12 h-12 bg-gradient-to-br from-purple-500/20 to-pink-500/20 rounded-lg flex items-center justify-center">
                                 <Smartphone className="w-6 h-6 text-purple-400" />
                             </div>
@@ -186,11 +186,11 @@ const HeroFooter = () => {
                 </div>
 
                 {/* Bottom Bar */}
-                <div className="flex flex-col md:flex-row items-center justify-between gap-4 pt-8">
+                <div className="flex flex-col md:flex-row lg:flex-row items-center justify-between gap-4 pt-8">
                     <div className="text-purple-300 text-sm text-center md:text-left">
                         © 2025 Hero.io. All rights reserved. Made with <Heart className="w-4 h-4 inline text-pink-400" /> for app lovers.
                     </div>
-                    <div className="flex flex-wrap gap-6 text-sm">
+                    <div className="flex flex-col justify-start md:flex-row lg:flex-row items-center md:justify-between lg:justify-between gap-2 md:gap-6 lg:gap-6 text-sm">
                         <a href="#" className="text-purple-300 hover:text-purple-400 transition-colors">Privacy Policy</a>
                         <a href="#" className="text-purple-300 hover:text-purple-400 transition-colors">Terms of Service</a>
                         <a href="#" className="text-purple-300 hover:text-purple-400 transition-colors">Cookie Policy</a>

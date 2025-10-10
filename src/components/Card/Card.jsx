@@ -28,7 +28,7 @@ const Card = ({ appData }) => {
                 <div className="card-actions justify-between">
                     <div className="badge badge-soft text-[#00D390] inline-flex items-center gap-1">
                         <MdFileDownload className='font-bold shrink-0' />
-                        {downloads / 1000000000}M
+                        {downloads / 1000000}M
                     </div>
                     <div className="badge bg-[#FFF0E1] text-[#FF8811]">
                         <MdStar />

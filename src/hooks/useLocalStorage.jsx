@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react';
 
 const useLocalStorage = () => {
     const DEFAULT_KEY = 'installedApps';
@@ -11,13 +10,18 @@ const useLocalStorage = () => {
         const installedApps = get();
         const existing = installedApps.some(i => i.id === item.id);
         if (existing) return
-        installedApps.push(item);
-        localStorage.setItem(DEFAULT_KEY, JSON.stringify(installedApps));
+        const updated = [...installedApps, item];
+        localStorage.setItem(DEFAULT_KEY, JSON.stringify(updated));
     }
 
     const remove = (id) => {
+        const removeId = String(id)
         const installedApps = get();
-        const updated = installedApps.filter(item => item.id === id);
+        const updated = installedApps.filter(item => {
+            console.log(typeof item.id, typeof id, typeof removeId);
+            return item.id !== removeId
+        });
+        
         localStorage.setItem(DEFAULT_KEY, JSON.stringify(updated));
     }
 

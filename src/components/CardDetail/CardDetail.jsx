@@ -31,8 +31,7 @@ const CardDetail = () => {
 
     const handleInstall = () => {
         setInstalled(true);
-        toast.success(`Please wait, App is installing on your device...
-            `, {
+        toast.success(`Please wait, ${title} is installing on your device...`, {
             position: "top-center",
             autoClose: 5000,
             hideProgressBar: false,
@@ -53,10 +52,10 @@ const CardDetail = () => {
 
 
     return (
-        <div className='bg-base-200 py-10'>
+        <div className='bg-base-100 md:bg-base-200 lg:bg-base-200 py-10'>
             <div className="container mx-auto">
-                <div className="grid grid-cols-12 gap-8">
-                    <div className="grid col-span-3 bg-white p-3">
+                <div className="grid grid-cols-12 gap-1 md:gap-8 lg:gap-8">
+                    <div className="grid md:col-span-3 lg:col-span-3 bg-white p-3">
                         <img className='h-88 w-88 object-contain' src={image} alt={`alt-${title}`} />
                     </div>
                     <div className="grid col-span-9 h-88">
@@ -65,12 +64,12 @@ const CardDetail = () => {
                             <p>Developed By: <span className='bg-gradient bg-clip-text text-transparent'>{companyName}</span> </p>
                         </div>
 
-                        <div>
-                            <hr className='text-gray-400 py-2' />
-                        </div>
+                        <>
+                            <hr className='text-gray-400' />
+                        </>
 
-                        <div>
-                            <div className="flex flex-col md:flex-row lg:flex-row justify-start items-center mb-10 gap-8">
+                        <>
+                            <div className="flex flex-row md:flex-row lg:flex-row justify-between md:justify-start lg:justify-start mb-3 gap-4 md:gap-8 lg:gap-8">
                                 <div className="space-y-2">
                                     <div className="">
                                         <img className='w-8 h-8 text-start' src={downloadIcon} alt="" />
@@ -78,7 +77,7 @@ const CardDetail = () => {
                                     <div className="stat-title text-sm">
                                         Downloads
                                     </div>
-                                    <div className="stat-value text-4xl">{downloads / 100000000}M</div>
+                                    <div className="font-bold text-base-content text-4xl">{downloads / 10000000}M</div>
                                 </div>
 
                                 <div className=" space-y-2">
@@ -88,7 +87,7 @@ const CardDetail = () => {
                                     <div className="stat-title text-sm">
                                         Average Ratings
                                     </div>
-                                    <div className="stat-value text-4xl">{ratingAvg}</div>
+                                    <div className="font-bold text-base-content text-4xl">{ratingAvg}</div>
                                 </div>
 
                                 <div className=" space-y-2">
@@ -98,7 +97,7 @@ const CardDetail = () => {
                                     <div className="stat-title text-sm">
                                         Total Reviews
                                     </div>
-                                    <div className="stat-value text-4xl">132+</div>
+                                    <div className="font-bold text-base-content text-4xl">132+</div>
                                 </div>
                             </div>
 
@@ -113,20 +112,20 @@ const CardDetail = () => {
                                         <button className={`btn text-gray-700 ${isInstalled ? 'bg-gray-400 disabled hover:cursor-not-allowed' : ''} `}>Installed</button>
                                 }
                             </div>
-                        </div>
+                        </>
                     </div>
                 </div>
 
                 <div className="divider">
                 </div>
 
-                <div>
+                <div className='py-5'>
                     <RatingBarChart ratings={ratings} />
                 </div>
 
-                <div>
+                <div className='w-[90%] mx-auto'>
                     <strong className="text-2xl font-bold text-[#001931] block mb-2">Description:</strong>
-                    <p className="whitespace-pre-line">{appDetails.description}</p>
+                    <p className="whitespace-pre-line text-justify">{appDetails.description}</p>
                 </div>
             </div>
         </div>
