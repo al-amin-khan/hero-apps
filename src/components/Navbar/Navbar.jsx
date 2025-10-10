@@ -4,9 +4,9 @@ import logo from '../../../src/assets/logo.png';
 
 const Navbar = () => {
     const menu = [
-        { id: 1, menu: 'Home' },
-        { id: 2, menu: 'Apps' },
-        { id: 3, menu: 'Installation' }
+        { id: 1, menu: 'Home', link: 'home' },
+        { id: 2, menu: 'Apps', link: 'apps' },
+        { id: 3, menu: 'My Installation', link: 'installation' },
     ];
     return (
         <div className="navbar bg-base-100 shadow-sm">
@@ -23,7 +23,7 @@ const Navbar = () => {
                             menu.map(m =>
                                 <li key={m.id}>
                                     <NavLink
-                                        to={`/${(m.menu).toLowerCase()}`}
+                                        to={`/${(m.link).toLowerCase()}`}
                                         className={({ isActive }) => isActive ? 'underline underline-offset-4 decoration-2 decoration-[#632EE3] text-[#590ec2]' : undefined}
                                     >
                                         {m.menu}
@@ -49,7 +49,7 @@ const Navbar = () => {
                         menu.map(m =>
                             <li key={m.id}>
                                 <NavLink
-                                    to={`/${(m.menu).toLowerCase()}`}
+                                    to={`/${(m.link).toLowerCase()}`}
                                     className={({ isActive }) => isActive ? 'underline underline-offset-4 decoration-2 decoration-[#632EE3] text-[#590ec2]' : undefined}
                                 >
                                     {m.menu}
