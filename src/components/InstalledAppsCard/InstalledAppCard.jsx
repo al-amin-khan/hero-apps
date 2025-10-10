@@ -9,9 +9,7 @@ const InstalledAppCard = ({onUninstall, app }) => {
 
     const { id, image, title, downloads, ratingAvg } = app;
 
-    const handleUninstall = () => {
-        console.log(id);
-        
+    const handleUninstall = () => {        
         if (onUninstall) {
             onUninstall(id);
         }

@@ -13,8 +13,6 @@ import useLocalStorage from '../../hooks/useLocalStorage';
 const CardDetail = () => {
     const storeInLocal = useLocalStorage();
     const installedApps = storeInLocal.get();
-    console.log(installedApps);
-    
 
     const [installed, setInstalled] = useState(false);
 
@@ -54,9 +52,9 @@ const CardDetail = () => {
     return (
         <div className='bg-base-100 md:bg-base-200 lg:bg-base-200 py-10'>
             <div className="container mx-auto">
-                <div className="grid grid-cols-12 gap-1 md:gap-8 lg:gap-8">
-                    <div className="grid md:col-span-3 lg:col-span-3 bg-white p-3">
-                        <img className='h-88 w-88 object-contain' src={image} alt={`alt-${title}`} />
+                <div className="w-[90%] mx-auto md:w-full lg:w-full grid grid-cols-1 md:grid-cols-12 lg:grid-cols-12 gap-1 md:gap-8 lg:gap-8">
+                    <div className="col-span-3 bg-white p-3 items-center flex justify-center">
+                        <img className='h-40 w-40 md:h-88 lg:h-88 md:w-88 lg:w-88 object-contain' src={image} alt={`alt-${title}`} />
                     </div>
                     <div className="grid col-span-9 h-88">
                         <div className="">

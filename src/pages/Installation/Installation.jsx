@@ -49,8 +49,6 @@ const Installation = () => {
     }
 
     const handleUninstall = (removeId) => {
-        console.log({removeId});
-        
         const normalizedId = String(removeId);
         storage.remove(normalizedId);
         setInstalledApps((prev) => prev.filter((app) => String(app.id) !== normalizedId));
@@ -80,6 +78,7 @@ const Installation = () => {
                     </div>
                 </div>
                 {
+                    !appsWithDetail.length ? <p className='text-4xl text-center text-gray-400'>No app is installed</p> :
                     appsWithDetail.map((app) => (
                         <InstalledAppCard
                             key={app.id}

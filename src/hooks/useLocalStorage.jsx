@@ -18,7 +18,6 @@ const useLocalStorage = () => {
         const removeId = String(id)
         const installedApps = get();
         const updated = installedApps.filter(item => {
-            console.log(typeof item.id, typeof id, typeof removeId);
             return item.id !== removeId
         });
         
